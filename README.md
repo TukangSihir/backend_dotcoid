@@ -33,3 +33,9 @@ Tutorial Instalasi<br><br>
         ?>
 
 # Knowledge & Experience Questions
+
+1. MVC merupakan kepanjangan dar Model View Controller, Model biasanya berisi untuk manipulasi data (Create, Read, Update,  Delete); View berisi tampilan website seperti css,html dll; dan Controller berisi mengatur apa yang direquest dan menampilkan kembali pada user. Struktur MVC sangat disarankan pada Web Development karen pada pemakaian struktur MVC lebih efisien, rapi dan mudah untuk melakukan development
+2. gitflow adalah branching Git yang berguna dalam masa produksi, pada gitflow terdapat dua branch yaitu Master dan Development
+3. Ya, Saya memilih Codeigniter karena pada codeigniter sangat mudah dipahami dan instalasi lebih mudah 
+4. menentukan terlebih dahulu apa yang diperlukan, menentuka nama tabel tabel, menentukan field field primary key dan foreign key, melakukan relasi, kemudian melakukan test
+5. Text Editor: Visual Studio Code<br>Web Server: Apache<br>Database: MySql<br>Web Browser: Mozilla Firefox
