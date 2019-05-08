@@ -1,6 +1,6 @@
 # backend_dotcoid
-Tutorial Instalasi
-    $ git clone https://github.com/TukangSihir/backend_dotcoid.git
+Tutorial Instalasi\n
+    $ git clone https://github.com/TukangSihir/backend_dotcoid.git\n
     $ cp .env .env.example
         rubah username, password, dan database
     $ composer install
