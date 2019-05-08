@@ -9,8 +9,6 @@ Tutorial Instalasi<br>
     $ php artisan serve<br>
     Pergi ke http://localhost:8000<br>
     
-<br>
-<br>
 Route list<br>
 <br>
 /lowongan
