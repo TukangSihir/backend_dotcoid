@@ -9,6 +9,25 @@ Tutorial Instalasi<br>
     $ php artisan serve<br>
     Pergi ke http://localhost:8000<br>
     
-Route list<br>
-<br>
+**Route list**<br>
 /lowongan
+
+
+##Logika dan Struktur Data
+
+        <?php
+            //Inisialisasi Array
+            $S = array(2, 1, 6, 9, 9, 4, 3);
+
+            //Descending Sort
+            rsort($S);
+
+            for($increment = 0; $increment < count($S); $increment++){
+                $nd = $S[$increment];
+                //Cek nilai Maksimal array dan Bandingkan dengan $nd
+                if(max($S) > $nd){
+                    echo $nd;
+                    break;
+                }
+            }
+        ?>
