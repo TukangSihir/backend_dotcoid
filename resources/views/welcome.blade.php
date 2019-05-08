@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="{{route('lowongan/')}}">Lowongan</a>                                    
+                    <a href="http:/localhost:8000/lowongan">Lowongan</a>                                    
                 </div>
             </div>
         </div>
