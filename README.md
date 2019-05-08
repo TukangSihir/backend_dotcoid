@@ -1,5 +1,5 @@
 # backend_dotcoid
-Tutorial Instalasi\n
+Tutorial Instalasi<br>
     $ git clone https://github.com/TukangSihir/backend_dotcoid.git\n
     $ cp .env .env.example
         rubah username, password, dan database
