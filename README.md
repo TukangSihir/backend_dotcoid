@@ -1,5 +1,5 @@
 # backend_dotcoid
-Tutorial Instalasi<br>
+Tutorial Instalasi<br><br>
     $ git clone https://github.com/TukangSihir/backend_dotcoid.git\n<br>
     $ cp .env .env.example<br>
         <p>rubah username, password, dan database</p>
@@ -13,7 +13,7 @@ Tutorial Instalasi<br>
 /lowongan
 
 
-##Logika dan Struktur Data
+## Logika dan Struktur Data
 
         <?php
             //Inisialisasi Array
