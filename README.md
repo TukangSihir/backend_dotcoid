@@ -2,7 +2,7 @@
 Tutorial Instalasi<br>
     $ git clone https://github.com/TukangSihir/backend_dotcoid.git\n<br>
     $ cp .env .env.example<br>
-        <p>rubah username, password, dan database</p><br>        
+        <p>rubah username, password, dan database</p>
     $ composer install<br>
     $ php artisan key:generate<br>
     $ php artisan migrate<br>
